@@ -18,6 +18,8 @@ I started my journey into programming when I was 12 years old, giving me a solid
 
 > "For me, programming is a chosen passion, not a forced profession. I build things with intention, keep layouts minimal, and always aim for clean, efficient execution."
 
+>You may find broken projects but that is the stage where real learning happens !
+
 <!-- ### 📈 Find Me Around the Web
 
 * **Tech Stack:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
